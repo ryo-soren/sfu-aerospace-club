@@ -8,7 +8,7 @@ function App() {
     <>
       <NavBar/>
       <LandingPageImage/>
-      <div className='w-4/5 mx-auto'>
+      <div className='w-4/5 mx-auto text-slate-600'>
         <MissionStatement/>
       </div>
     </>
